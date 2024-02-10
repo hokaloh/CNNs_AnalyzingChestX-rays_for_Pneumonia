@@ -45,19 +45,23 @@ For the results of the evaluated model, our team employs various metrics and tec
 
 In the README, we solely present ROC curve images example for data split into 40% for training and 60% for testing. For a comprehensive understanding of other results, please refer to the paper for detailed information
 
-Convolutional Neural Network
+**Convolutional Neural Network**
+
 ![Epoch](Images/CNN40PLOT.png)
 ![ROC curve](Images/CNN40ROC.png)
 
-Visual Geometry Group
+**Visual Geometry Group**
+
 ![Epoch](Images/VGG40PLOT.png)
 ![ROC curve](Images/VGG40ROC.png)
 
-Residual Networks
+**Residual Networks**
+
 ![Epoch](Images/RESNET40PLOT.png)
 ![ROC curve](Images/RESNET40ROC.png)
 
-LeNet-5
+**LeNet-5**
+
 ![Epoch](Images/LENET40PLOT.png)
 ![ROC curve](Images/LENET40ROC.png)
 
