@@ -13,6 +13,14 @@ Leveraging algorithms such as:
 
 Aims to significantly enhance the precision and efficiency of pneumonia detection through robust classification models
 
+## Paper
+Our team is engaged in crafting papers and slide for this research to provide more details about this particular type
+
+[The Deep-Chest-Diagnostics Paper](The%20Deep-Chest-Diagnostics%20Paper.pdf)
+
+[The Deep-Chest-Diagnostics Slide](Slide%20Deep-Chest-Diagnostics.pdf)
+
+
 ## Feature
 **Feature Extraction**
 - *FeatureExtraction.R*
