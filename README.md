@@ -26,6 +26,19 @@ Aims to significantly enhance the precision and efficiency of pneumonia detectio
 **Evaluated Model**
 - *Evaluate_Model.R*
 
+## Testing
+
+Before proceeding with the code execution, ensure to load the necessary libraries for seamless functionality.
+
+```
+    library(keras)
+    library(tensorflow)
+    library(Metrics)
+    library(pROC)
+    library(tidyverse)
+```
+If the required libraries are not already installed, they must be installed first to proceed.
+
 ## Result
 
 For the results of the evaluated model, our team employs various metrics and techniques to understand the model's predictive capability and generalization ability, such as accuracy, precision, recall, F-score, and the ROC curve
